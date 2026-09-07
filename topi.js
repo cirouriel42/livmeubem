@@ -65,7 +65,7 @@ const questions = [
     section: "nos",
     question: "Qual é a nossa cor?",
     options: ["Vermelho", "Rosa", "Amarelo", "Preto"],
-    correct: 3
+    correct: 2
   },
 
   // ---------- PARTE 2 · SOBRE MIM ----------
