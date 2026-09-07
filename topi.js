@@ -1,10 +1,4 @@
-/* =====================================================
-   EDITE AS PERGUNTAS AQUI — troque pelas de vocês!
-   "section": use "nos" pras 10 primeiras (sobre o casal)
-              e "mim" pras 10 últimas (sobre você)
-   "options": lista de alternativas
-   "correct": índice (0,1,2...) da alternativa certa
-   ===================================================== */
+
 const questions = [
   // ---------- PARTE 1 · SOBRE NÓS ----------
   {
@@ -138,10 +132,7 @@ const transitionMessages = {
   }
 };
 
-/* =====================================================
-   EDITE O SEU POEMA AQUI — vai aparecer dentro da carta
-   Use \n (quebra de linha) pra separar os versos
-   ===================================================== */
+
 const poem = `Eu me apaixonei pelos seus olhos,
 pelo jeito que eles conseguem me prender,
 como se, quando eu te olho,
@@ -175,9 +166,6 @@ amo ver você tocar,
 mas, acima de tudo,
 amo você.`;
 
-/* =====================================================
-   APRESENTAÇÃO FINAL (depois que ela fechar a carta)
-   ===================================================== */
 
 // frases que aparecem uma de cada vez, indo e voltando com fade
 const slideshowTexts = [
