@@ -182,7 +182,11 @@ const revealTexts = [
   "Você."
 ];
 
-
+// coloque aqui os nomes dos arquivos das fotos de vocês
+// (deixe as fotos na mesma pasta do index.html, dentro de uma pasta "fotos")
+const slideshowPhotos = [
+  
+];
 
 // mensagem final, depois das fotos
 const finalMessage = `Escreva aqui a mensagem final
