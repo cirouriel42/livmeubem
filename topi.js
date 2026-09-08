@@ -203,8 +203,19 @@ const slideshowPhotos = [
 ];
 
 // mensagem final, depois das fotos
-const finalMessage = `Escreva aqui a mensagem final
-que você quer deixar pra ela.`;
+const finalMessage = `Mais um mês, amorrr! Olha só eu de novo aqui KSKSKSKSK. Meu bem, nosso dia chegou mais uma vez, e eu fico pensando em como é incrível tudo que a gente vem construindo juntos. Parece que estamos há anos e anos JUNTOS, de tanta intimidade, tantos aprendizados, discussões, risadas, brincadeiras, brincadeiras 😏 (KSKASKSAAKSA PAREI).
+
+Amor, eu queria te dizer que todos esses momentos que vivemos juntos estão guardados no meu coração. Cada risada, cada conversa, cada abraço, cada momento bobo e até nossas discussões fazem parte da nossa história e tornam tudo ainda mais especial pra mim.
+
+E dessa vez eu quis fazer uma coisinha diferente pra você. Fiz esse site como um presentinho, um cantinho só nosso, pra guardar um pouquinho daquilo que vivemos e, principalmente, pra te lembrar do quanto você é importante pra mim. Talvez não seja o presente mais caro ou mais elaborado do mundo, mas foi feito pensando em você, com todo o meu carinho e amor. ❤️
+
+Eu queria que, sempre que você entrar aqui, lembrasse de nós, de tudo que já vivemos e de tudo que ainda vamos viver. Quero continuar criando memórias com você, colecionando momentos, risadas, histórias e, claro, algumas brincadeiras 😏 KSKSKSKSK.
+
+Eu sou muito feliz por ter você comigo e por poder compartilhar mais um mês ao seu lado. Você se tornou uma pessoa muito importante na minha vida, alguém que eu quero cuidar, amar, aprender e crescer junto.
+
+Obrigado por ser você, por estar comigo e por fazer meus dias muito mais especiais. Eu te amo muito, muito mesmo, mais do que às vezes consigo colocar em palavras.
+
+Feliz mais um mês pra nós, meu amor. Que esse seja só mais um de muitos e muitos meses que ainda vamos comemorar juntinhos. Eu te amo, minha princesa.`;
 
 function buildSlides(){
   const slides = [];
