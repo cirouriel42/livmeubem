@@ -197,9 +197,9 @@ const revealTexts = [
 // coloque aqui os nomes dos arquivos das fotos de vocês
 // (deixe as fotos na mesma pasta do index.html, dentro de uma pasta "fotos")
 const slideshowPhotos = [
-  "fotos/nss1.jpg",
-  "fotos/nss2.jpg",
-  "fotos/nss3.jpg"
+  "fotos/nss1.jpeg",
+  "fotos/nss2.jpeg",
+  "fotos/nss3.jpeg"
 ];
 
 // mensagem final, depois das fotos
